@@ -1,0 +1,13 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, #394cdd, #0f228f, #6c0821);
+    color: rgb(171, 171, 171);
+    margin: 0; }
+
+ul {
+    list-style-type: none;
+}
